@@ -22,7 +22,7 @@ class FilamentSpatieLaravelActivitylogServiceProvider extends PluginServiceProvi
     protected function getResources(): array
     {
         return [
-            ActivityResource::class,
+            //ActivityResource::class,
         ];
     }
 
